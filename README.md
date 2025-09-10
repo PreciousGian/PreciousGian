@@ -10,7 +10,8 @@
   
 - 💬 Ask me about aws cloud computing, data management, networking tips and painting.
   
-- 📫 How to reach me: Email: precious.lefaso@gmail.com             Twitter: https://x.com/precious_gian       Linkedin: www.linkedin.com/in/keitumetseplefaso
+- 📫 How to reach me: Email: precious.lefaso@gmail.com             Twitter: https://x.com/precious_gian
+-  Linkedin: www.linkedin.com/in/keitumetseplefaso
   
 - 😄 Pronouns: she/her
   
