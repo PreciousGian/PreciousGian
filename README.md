@@ -6,7 +6,7 @@
   
 - 👯 I’m looking to collaborate on exploring AWS compute services, Database services, networking and content delivery services and ofcourse security services, we don't want our customers to feel not safe in the cloud.
   
-- 🤔 I’m looking for help with labs, this is where i as an aws cloud trainee act as an experience professional(support engineer, DevOpsengineer etc)  in the real world i am asked to solve real life problems, provided with access to aws management console and sometimes use ssh client; putty or session manager that is provided inside aws management console to solve those problems.
+- 🤔 I’m looking for collaborations with labs, this is where i as an aws cloud trainee act as an experience professional(support engineer, DevOpsengineer etc)  in the real world i am asked to solve real life problems, provided with access to aws management console and sometimes use ssh client; putty or session manager that is provided inside aws management console to solve those problems.
   
 - 💬 Ask me about aws cloud computing, data management, networking tips and painting.
   
@@ -16,4 +16,3 @@
   
 - ⚡ Fun fact: i love painting, the feel of paint on my hands gives me joy.
   
--->
