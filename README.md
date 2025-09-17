@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Keitumetse Precious Lefaso, IT Technician 
 
- 🔭 I’m currently working on AWS cloud computing.i have just started my journey in AWS cloud computing, part of the AWS restart program and preparing to write AWS CLOUD PRACTITIONER EXAM!! 
+ 🔭 After graduating in Information Systems and Data Management and interning in IT Support, joined AWS re/start program and earned multiple AWS skill builder certificates to deepen my cloud knowledge. I'm now preparing for my aws cloud practitioner certification this October to validate these skills formally. 
 
 - 🌱 I’m currently learning about AWS cloud, exciting right? Join me in my journey and come along and do labs with me, using AWS management console, explore ec2 instances, VPC, Amazon RDS, Amazon Aurora and many other AWS services.
   
