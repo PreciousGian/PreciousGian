@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Keitumetse Precious Lefaso, IT Technician 
+## Hi there 👋 I'm Keitumetse Precious Lefaso, Aspiring Cloud Data Engineer
 
  🔭 After graduating in Information Systems and Data Management and interning in IT Support, joined AWS re/start program and earned multiple AWS skill builder certificates to deepen my cloud knowledge. I have passed  AWS Certified Cloud Practitioner certification on 24th October 2025 to validate these skills formally. Now studying to obtain aws solutions Architect Associate, will hopefully write exam next year February 2026.
 
@@ -16,4 +16,9 @@
 - 😄 Pronouns: she/her
   
 - ⚡ Fun fact: i love painting, the feel of paint on my hands gives me joy.
+  
+- DIGITAL BADGES
+- AWS CLOUD QUEST: CLOUD PRACTITIONER - https://www.credly.com/badges/a7338a12-6c06-45fb-9721-4c210a2de0be/public_url
+  
+- AWS CERTIFIED CLOUD PRACTITIONER - https://www.credly.com/badges/c73bb7ab-00ee-4c08-8b94-3a34bed0c852/public_url
   
